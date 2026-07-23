@@ -6,5 +6,4 @@ sort | \
 uniq -c | \
 sort -nr | \
 head -5
-chmod +x feed-analyzer.sh
-./feed-analyzer.sh
+
